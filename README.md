@@ -1,6 +1,6 @@
 # 📘 COA Assignments
 
-## 👩‍🎓 My Information
+## 👨‍🎓 My Information
 
 **Name:** Sachin  
 **Roll No:** 2301350008  
