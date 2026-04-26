@@ -16,6 +16,15 @@
 
 ### 🔹 Assignment 2
 - Includes all required questions with complete solutions.
+  
+### 🔹 Assignment 3
+- Includes all required questions with complete solutions.
+  
+### 🔹 Assignment 4
+- Includes all required questions with complete solutions.
+
+### 🔹 Capstone Assignment 
+- Includes all required questions with complete solutions.
 
 ---
 
